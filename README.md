@@ -78,4 +78,4 @@ A Soroban smart contract dApp that facilitates **renewable energy credit trading
 
 ## Profile
 
-- **Name:** <!-- Fill github name -->
+- **Name:** anhthi2103
